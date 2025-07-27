@@ -14,3 +14,6 @@ Severity Classification: Categorizes the burned area into low, moderate, high, a
 Interactive Legend and Pie Chart: Adds a legend and a pie chart to visualize the proportions of each burn severity class interactively.
 
 The script is optimized for deployment on Earth Engine Apps and designed to support rapid fire assessment, disaster response, and environmental monitoring workflows.
+
+
+Check here for the deployed app: https://fokengreeves.users.earthengine.app/view/limassol-wildfire-cyprus 
