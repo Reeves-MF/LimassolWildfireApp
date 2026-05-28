@@ -17,8 +17,7 @@ The script is optimized for deployment on Earth Engine Apps and designed to supp
 
 
 Check here for the deployed app: https://fokengreeves.users.earthengine.app/view/limassol-wildfire-cyprus 
-<img width="770" height="791" alt="image" src="https://github.com/user-attachments/assets/a2f1e8d1-e91a-47a8-bfce-cbe0c9479242" />
-<img width="763" height="797" alt="image" src="https://github.com/user-attachments/assets/aeb45d8c-48f9-4c89-b5fd-bf78260d10d7" />
+
 <img width="1904" height="813" alt="image" src="https://github.com/user-attachments/assets/5cb5f7c4-9c1f-40f3-8676-4d8b533eb48e" />
 
 
